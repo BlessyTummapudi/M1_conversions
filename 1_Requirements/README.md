@@ -30,4 +30,9 @@ This project can be used by students as well as circuit developers where such ca
 ## How
 This project can perform various calculations at the same and make user's task smooth and effortless.
 
-![pic](https://github.com/3114-HM/Stepin_Conversions/tree/main/Requirements#low-level-requirements)
+ID	Description	Status (Implemented/Future)
+HLR-1	User shall be able to convert data from decimal system to another	Implemented
+HLR-2	System output must display data without any error	Implemented
+HLR-3	User shall be able to convert data between any number systems	Future
+HLR-4	User shall be able to convert a negative data value	Future
+
