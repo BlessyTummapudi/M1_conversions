@@ -35,14 +35,16 @@ This project can perform various calculations at the same and make user's task s
 
 ## High Level Requirements
 
-### ID	     Description	Status                                                (Implemented/Future)
-HLR-1	    User shall be able to convert data from decimal system to another	    Implemented
+### ID	:    Description	Status                                              -  (Implemented/Future)
+HLR-1	  : User shall be able to convert data from decimal system to another	  -  (Implemented)
 
-HLR-2	    System output must display data without any error	                    Implemented
+HLR-2	  : System output must display data without any error	                  -  (Implemented)
 
-HLR-3	    User shall be able to convert data between any number systems	        Future
+HLR-3	  : User shall be able to convert data between any number systems	      -  (Future)
 
-HLR-4	    User shall be able to convert a negative data value	                  Future
+HLR-4	  : User shall be able to convert a negative data value	                -  (Future)
 
-
-![pic](https://github.com/3114-HM/Stepin_Conversions/tree/main/Requirements#low-level-requirements)
+# Low level Requirements:
+ 
+### ID	:        Description	Status                                              -  (Implemented/Future)
+LLR-1	  :  User shall be able to read the output data	                        -  (Implemented)
