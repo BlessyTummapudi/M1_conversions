@@ -12,3 +12,20 @@ Since, the digital logic circuitry requires numorous calculations of such type, 
 This system supports following types of data conversions (For positive integers):
 ![picture](https://user-images.githubusercontent.com/80566521/114318753-16e67380-9b2c-11eb-8b23-4bc4af3ca7fa.png)
 
+# Research:
+![picture](https://user-images.githubusercontent.com/80566521/114319584-bbb68000-9b2f-11eb-9044-67c8093a5842.png)
+
+
+# 4W's and 1H
+## Who
+Information technology students
+## What
+A person can convert data to a desired format with the help of this project in timely manner.
+
+## When
+At the initial stage of digital circuit designing operation.
+## Where
+This project can be used by students as well as circuit developers where such calculations are needed.
+
+## How
+This project can perform various calculations at the same and make user's task smooth and effortless.
