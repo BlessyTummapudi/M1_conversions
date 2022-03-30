@@ -19,8 +19,13 @@
  # Learning Resources
  
   1.gcc makefile
+  
   2.pointers in c
+  
   3.Number system in digital elecronics
+  
   4.Dynamic memory allocation
+  
   5.git inspector
+  
   6.github workflow
