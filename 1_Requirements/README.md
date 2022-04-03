@@ -38,6 +38,9 @@ This system supports following types of data conversions (For positive integers)
 
 ![pic](https://github.com/Madhuraaaaa/StepIn-Mini-project/blob/main/1_Requirements/Table-Listing-Binary-Gray-BCD-Express-3-Coding-Decimal-Digits.jpg)
 
+# Swot Analysis
+
+![pic](https://github.com/Madhuraaaaa/StepIn-Mini-project/blob/main/1_Requirements/SWOT%20Analysis.png)
 # 4W's and 1H
 ## Who
 Information technology students
