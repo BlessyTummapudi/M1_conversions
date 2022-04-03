@@ -19,7 +19,7 @@
  
  # Learning Resources
  
-   1. gcc make file
+   1.gcc make file
   
    2.pointers in c
   
